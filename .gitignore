@@ -1,0 +1,7 @@
+.venv/
+*.onnx
+*.bin
+*.wav
+*.mp3
+output_audiobooks/
+__pycache__/
